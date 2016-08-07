@@ -1,5 +1,4 @@
 # yangmungi.github.io
-MY-O
 
 崔羊門
 
