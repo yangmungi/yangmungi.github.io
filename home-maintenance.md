@@ -36,7 +36,9 @@ Buy shares of a REIT, or offer up "hard money" to a local flipper for a chance a
 Trust me on this.....I secretly love guys like you. 
 Real estate flipping is my "side hustle"and I LOVE to swoop in and buy a house that's half renovated or driven into the ground by an absent/slum landlord and hellish tenants.
 
-Here's how it would likely go:
+The Hustle
+---
+
 You'll buy a house with big dreams, and dump another hundred grand into it....and then six months of carrying costs and delays, and BS from contractors and city permits, you'll dry up your savings and the bank will call the mortgage or you will just put it up for sale. 
 You meet with a few agents, and tell them your story. 
 The agent will say "I see from MLS you paid $500k for this house six months ago....but in its current state....I think we should list it for $450K". 
