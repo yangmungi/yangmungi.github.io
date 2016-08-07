@@ -1,4 +1,8 @@
-Face Shapes
+Face 
+===
+
+Shapes
+---
 
 - Circle
 - Oval
@@ -7,6 +11,10 @@ Face Shapes
 - Base-Up Triangle
 - Diamond
 - Square
+
+
+Colors
+---
 
 Skin
 
@@ -25,6 +33,7 @@ Hair
 - Warm: Golden blond, brownish black, brown-gold, "carrot" and "dirty” gray
 
 Glasses Colors
+---
 
 Warm
 camel, khaki, gold, copper, peach, orange, coral, off-white, fire-engine red, warm blue and blond tortoise
@@ -33,18 +42,22 @@ Cool
 black, silver, rose-brown, blue-gray, plum, magenta, pink, jade, blue and demi-amber (darker) tortoise
 
 Clothing
+===
+
 Black Tie = Black Shoes
 
 Socks
+--
 
 - Stay up
 - Dark
 
 Shirt
+--
 
-- Should: Seam should meet at corner of shoulder bone.
-- Collar: Should be able to slide in 2 fingers when closed.
-- Sleeve: Neither tight or billowy, should allow natural motion.
-- Armholes: High enough without causing restricted motion.
-- Torso: Should not give more than 3-4” of fabric when pulled lightly away from body.
-- Sleeve: Should end where palm meets writs, about 1” beyond wrist bone.
+- Shoulder seam should meet at corner of shoulder bone.
+- Collar should be able to slide in 2 fingers when closed.
+- Sleeve should be neither tight or billowy, and allow natural motion.
+- Armholes should be High enough without causing restricted motion.
+- Torso Should not give more than 3-4” of fabric when pulled lightly away from body.
+- Sleeve should end where palm meets writs, about 1” beyond wrist bone.
