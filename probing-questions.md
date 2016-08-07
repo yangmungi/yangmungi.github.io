@@ -45,3 +45,5 @@ Set III
 34. Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?
 35. Of all the people in your family, whose death would you find most disturbing? Why?
 36. Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.
+ 
+http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html
