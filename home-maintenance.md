@@ -19,13 +19,24 @@ Looking to buy a house, pull out the air filter.
 If its clean, chances are the rest of the house has also been maintained. 
 Look at the condenser coils on the outdoor AC unit, if they are full of leaves/dirty, then the whole unit hasn't been maintained.
 
-Water heater is a bit of a variable.....
+Water Heater
+---
+A bit of a variable.....
 
-Windows are easy to figure out how much life left
+Windows
+---
+Are easy to figure out how much life left
 
-Flooring, same thing....use your eye balls
+Flooring
+---
+Same thing....use your eye balls
 
-Electrical, if it has knob and tube wiring, or aluminium wiring, count on replacing that to lower your insurance, or even get a policy
+Electrical
+---
+Knob and tube wiring, or aluminium wiring, count on replacing that to lower your insurance, or even get a policy
+
+Misc.
+---
 
 Replacing a toilet could be $120 at home depot and a half an hour of your time.....OR a $750 bill from a plumber, depending on how much of a sucker you are. 
 1% of a property value in Vancouver isn't the same as 1% of a property's value in SK.... even though they may have the same maintenance costs.
