@@ -3,9 +3,7 @@ The Parable of the two Programmers
 
 Neil W. Rickert
 
-Dept. of Math, Stat., and Computer Science,
-
-University of Illinois at Chicago.
+Dept. of Math, Stat., and Computer Science, University of Illinois at Chicago.
 
 ------
 
