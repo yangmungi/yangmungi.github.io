@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Hello world"
 date: 2015-08-29 21:34:00 -0700
 comments: true
