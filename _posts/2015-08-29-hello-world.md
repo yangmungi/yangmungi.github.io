@@ -48,9 +48,9 @@ Programming Architecture
 There are definte advantages to encapsulating the knowledge of remote execution within the system. 
 A topology-aware system is much more capable of withstanding external forces than a topology-unaware system; unfortunately, it will dramatically increase complexity.
 
-{% blockquote Melvin Conway %}
-... Organizations which design systems... Are constrained to produce designs which are copies of the communication structures of these organizations...
-{% endblockquote %}
+> ... Organizations which design systems... Are constrained to produce designs which are copies of the communication structures of these organizations...
+>
+> **Melvin Conway**
 
 Why take the steps to adjust to a workflow catering to a different scale people working on a project? It seems like an excess of overhead.
 
