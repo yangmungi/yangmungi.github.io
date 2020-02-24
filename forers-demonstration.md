@@ -1,3 +1,5 @@
+[Barnum Effect](https://en.wikipedia.org/wiki/Barnum_effect)
+
 - You have a great need for other people to like and admire you.
 - You have a tendency to be critical of yourself.
 - You have a great deal of unused capacity which you have not turned to your advantage.
