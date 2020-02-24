@@ -6,7 +6,7 @@
 - [The Parable of Two Programmers]({% link parable-of-two-programmers.md %})
 - [Miscellaneous Quotes]({% link miscellaneous-quotes.md %})
 - [Questions to Ask on a Serious Date]({% link probing-questions.md %})
-- [Vanity Notes]({% vanity.md %})
+- [Vanity Notes]({% link vanity.md %})
 
 # Posts
 
