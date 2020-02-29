@@ -1,8 +1,6 @@
-Face 
-===
+# Face 
 
-Shapes
----
+## Shapes
 
 - Circle
 - Oval
@@ -13,47 +11,60 @@ Shapes
 - Square
 
 
-Colors
----
+## Colors
 
-Skin
+### Skin
 
 - A cool complexion has blue or pink undertones. Olive skin is considered cool.
 - A warm complexion has a "peaches and cream" or yellow cast.
 
-Eyes
+### Eyes
 
 - Secondary
 - Blue eyes can range from a cool almost-violet to a warm pale blue-gray
 - Brown eyes can range from a cool almost-black to a (?) medium-brown to warm a light cider shade
 
-Hair
+### Hair
 
 - Cool: Strawberry blond, platinum, blue-black, white, auburn, salt-and-pepper and ash brown
 - Warm: Golden blond, brownish black, brown-gold, "carrot" and "dirty” gray
 
-Glasses Colors
-===
+# Glasses Colors
 
-Warm
-camel, khaki, gold, copper, peach, orange, coral, off-white, fire-engine red, warm blue and blond tortoise
+- Warm
+  - camel
+  - khaki
+  - gold
+  - copper
+  - peach
+  - orange
+  - coral
+  - off-white
+  - fire-engine red
+  - warm blue 
+  - blond tortoise
+- Cool
+  - black
+  - silver
+  - rose-brown
+  - blue-gray
+  - plum
+  - magenta
+  - pink
+  - jade
+  - blue 
+  - demi-amber (darker) tortoise
 
-Cool
-black, silver, rose-brown, blue-gray, plum, magenta, pink, jade, blue and demi-amber (darker) tortoise
+# Clothing
 
-Clothing
-===
+Black Tie means Black Shoes
 
-Black Tie = Black Shoes
-
-Socks
---
+## Socks
 
 - Stay up
 - Dark
 
-Shirt
---
+## Shirt
 
 - Shoulder seam should meet at corner of shoulder bone.
 - Collar should be able to slide in 2 fingers when closed.
