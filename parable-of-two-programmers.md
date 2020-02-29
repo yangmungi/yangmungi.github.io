@@ -1,5 +1,4 @@
-The Parable of the two Programmers
-===
+# The Parable of the two Programmers
 
 Neil W. Rickert
 
