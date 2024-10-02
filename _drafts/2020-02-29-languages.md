@@ -20,7 +20,7 @@ Unfortunately, they are not, as languages that are close to physical specificati
 Given that much, we can proceed with the effects of this categorization.
 
 Languages that give to meta-programming tend to be more adaptive and iteration-heavy. 
-THey tend to comprise tools that are highly adaptive to change, but are unpredictable.
+They tend to comprise tools that are highly adaptive to change, but are unpredictable.
 
 On the other hand, languages that give to type-safety tend to the highly preventative to change, mainly due to the steep learning curve of any system that is in place to enforce such type enforcements. However, with the type-safety, there are a lot of assumptions that can be utilized when writing a program, and those assumptions ultimarly assist the mindful programmer in modifying a program's behavior utilizning less information.
 
